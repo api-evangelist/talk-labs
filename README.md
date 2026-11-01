@@ -64,12 +64,69 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Talk Labs (TalkLabs) builds AI-powered voice simulations for corporate learning, turning training theory into practical, hands-on skills. Its platform provides AI trainers that role-play realistic customer scenarios so frontline sales and customer-service staff can practice conversations on demand — with 24/7 AI coaching, voice simulations in 50+ languages, analytics dashboards, LMS integration, and a no-code AI lesson builder.
+Talk Labs (TalkLabs) builds AI-powered voice simulations for corporate learning, turning training theory into practical, hands-on skills. Its platform provides AI trainers that role-play realistic customer scenarios so frontline sales and customer-service staff can practice conversations on demand. Capabilities include 24/7 AI coaching with no capacity limits, voice-based simulations in 50+ languages, progress-tracking and analytics dashboards, LMS integration, and a no-code AI lesson builder, with deployment within a week of contract. It serves banks, retail, hospitality, financial services, and restaurants. Backed by 500 Global and founded by Serge Sarkisian (CEO) and Ilia Krotov (CTO). No public API, developer portal, documentation, or well-known discovery surface was found at the time of this profile.
 
-- Website: https://talk-labs.com
-- App / login: https://app.talk-labs.com
-- Industries: banks, retail, hospitality, financial services, restaurants
-- Founders: Serge Sarkisian (CEO), Ilia Krotov (CTO)
-- Backed by: 500 Global
+**Areas:** Company · Artificial Intelligence · Voice · Corporate Training · Learning and Development · Conversational AI · EdTech · Customer Service
 
-No public API, developer portal, documentation, OpenAPI, or `/.well-known/` discovery surface was found at the time of this profile (all standard developer paths returned 404; `docs.`/`developers.`/`api.` subdomains do not resolve). This remains a portfolio lead — re-run the enrichment pipeline once a developer surface ships.
+## Talk Labs on APIs.io
+
+Everything profiled for Talk Labs is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/talk-labs/](https://apis.io/providers/talk-labs/)** — or go straight to one of the APIs or properties below.
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://talk-labs.com)
+
+## API Evangelist rating
+
+**Kin Score 3.4** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 6.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 0.0** — Education & Research
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/talk-labs/](https://apis.io/providers/talk-labs/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Talk Labs: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/talk-labs/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
